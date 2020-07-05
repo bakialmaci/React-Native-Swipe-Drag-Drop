@@ -1,3 +1,4 @@
+![](https://i.imgur.com/mPplzsK.gif)
 
 ## Kurulum
 Gerekli paketlerimizi kuralım.
