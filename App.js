@@ -16,10 +16,6 @@ import DraggableFlatList from "react-native-draggable-flatlist";
 export default function App () {
   const [data,setData] = useState(exampleData)
 
-  useEffect(()=>{
-    console.log(data);
-  },[data])
-
   const Row = ({ item ,drag }) => (
     <TouchableOpacity onLongPress={drag} >
     <RectButton style={styles.rectButton} onPress={() => alert(item.from)}>
