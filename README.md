@@ -1,12 +1,14 @@
 ![](https://i.imgur.com/mPplzsK.gif)
 
-## Kurulum
-Gerekli paketlerimizi kuralım.
+## Installation
+Let's start to install required packages.
 ```sh
 yarn install
 ```
-Android kısmında bir takım eklemelerimiz olacaktır. IOS için ekstra bir işleme gerek yoktur.
-_**_android/app/src/main/java_**_ içerisinde bulunan **MainActivity.java** dosyasına eklenecek satırlar "+" ile belirtilmiştir.
+There are some lines we need to add on the Android side.. This step does not required for IOS..
+The lines to be added are indicated with "+".
+The path is , _**_android/app/src/main/java/MainActivity.java_**_
+
 ```javascript
 package com.gesturehandler;
 
@@ -39,8 +41,10 @@ public class MainActivity extends ReactActivity {
   
 }
 ```
-Uygulamamız hazır
+Our example app ready!
+
+
 ```sh
 yarn run android
 ```
-komutu ile android emülatörümüzde uygulamamızı açabiliriz.
+We can run it with the above written command on an android emulator.
