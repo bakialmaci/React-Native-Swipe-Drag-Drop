@@ -1,3 +1,6 @@
+## Aim
+React Native Community haven't published any official document or source to realize drag-drop-swipe touch gestures on a component. I've some experiences on the touch gestures usage on a component some projects so, I've tried to show this features on a simple react native application. I hope it'll help to you.
+
 ![](https://media.giphy.com/media/Y3YG1j4dk7ErCVNPto/giphy.gif)
 
 ## Installation
