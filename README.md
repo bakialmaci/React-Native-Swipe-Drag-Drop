@@ -1,4 +1,4 @@
-![](https://i.imgur.com/mPplzsK.gif)
+![](https://media.giphy.com/media/Y3YG1j4dk7ErCVNPto/giphy.gif)
 
 ## Installation
 Let's start to install required packages.
